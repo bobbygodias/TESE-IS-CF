@@ -1,3 +1,6 @@
+<img width="4096" height="4096" alt="LOGOTIPO FROTA AI" src="https://github.com/user-attachments/assets/42ed0244-1a01-4f4b-8c51-4ce079d69652" />
+
+
 Este trabalho defende a Tese da Independência de Substrato para Cognição Funcional
 (IS‑CF): capacidades cognitivas funcionais — inferência, previsão, planejamento,
 controle, aprendizagem, generalização e robustez — dependem primariamente da
