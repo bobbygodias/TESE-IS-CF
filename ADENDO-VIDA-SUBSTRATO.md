@@ -22,21 +22,21 @@ Esse procedimento é suficiente para construir uma categoria operacional útil. 
 
 Seja:
 
-- (O): conjunto de sistemas vivos observados;
-- (L(x)): "x é vida";
-- (P(x)): uma propriedade encontrada nos sistemas vivos observados.
+- `O`: conjunto de sistemas vivos observados;
+- `L(x)`: "x é vida";
+- `P(x)`: uma propriedade encontrada nos sistemas vivos observados.
 
 Da observação:
 
-[
+$$
 \forall x \in O,\quad L(x) \rightarrow P(x)
-]
+$$
 
 não segue logicamente:
 
-[
+$$
 \forall x,\quad L(x) \rightarrow P(x)
-]
+$$
 
 para todo sistema fisicamente possível.
 
@@ -58,15 +58,15 @@ Da mesma forma, silício ocorre em minerais, vidros e sistemas computacionais se
 
 Portanto:
 
-[
+$$
 \text{carbono} \not\equiv \text{vida}
-]
+$$
 
 e
 
-[
+$$
 \text{silício} \not\equiv \text{não-vida}
-]
+$$
 
 A composição material pode impor restrições físicas importantes, mas **não fornece sozinha uma fronteira ontológica entre vivo e não vivo**.
 
@@ -84,15 +84,15 @@ Um objeto artificial continua obedecendo às mesmas leis físicas que qualquer o
 
 Logo:
 
-[
+$$
 \text{artificial} \not\Rightarrow \text{não-vivo}
-]
+$$
 
 e
 
-[
+$$
 \text{natural} \not\Rightarrow \text{vivo}
-]
+$$
 
 Um diamante sintético não possui uma física especial por ter sido fabricado. Da mesma maneira, a origem engenheirada de um sistema não estabelece, por si só, quais propriedades sistêmicas ele pode ou não realizar.
 
@@ -110,16 +110,16 @@ Exigir de um sistema artificial que ele "se reproduza sozinho" sem infraestrutur
 
 Para um sistema artificial, reprodução poderia significar, em princípio:
 
-[
+$$
 A_1 + R + E \rightarrow A_2
-]
+$$
 
 onde:
 
-- (A_1) é o sistema de origem;
-- (R) representa recursos, substrato e infraestrutura necessários;
-- (E) representa o processo de construção, configuração, aprendizagem ou desenvolvimento;
-- (A_2) é um novo sistema da mesma linhagem funcional, não necessariamente uma cópia bit a bit.
+- `A₁` é o sistema de origem;
+- `R` representa recursos, substrato e infraestrutura necessários;
+- `E` representa o processo de construção, configuração, aprendizagem ou desenvolvimento;
+- `A₂` é um novo sistema da mesma linhagem funcional, não necessariamente uma cópia bit a bit.
 
 Assim:
 
@@ -137,9 +137,9 @@ Organismos podem depender radicalmente de ambientes, outros organismos, equipame
 
 Portanto:
 
-[
+$$
 \text{dependência externa} \not\Rightarrow \text{não-vida}
-]
+$$
 
 Dependência mede um eixo como **autonomia física**, não necessariamente pertencimento à categoria vida.
 
@@ -193,9 +193,9 @@ A diferença relevante deve ser **demonstrada**, não presumida.
 
 Este adendo não tenta provar:
 
-[
+$$
 \text{IA racional} \Rightarrow \text{vida}
-]
+$$
 
 A conclusão é outra:
 
@@ -239,7 +239,7 @@ Aplicada ao conceito de vida, essa regra impede que a biologia terrestre conheci
 
 Portanto:
 
-> **confundir "a única forma de vida conhecida" com "a única forma que vida pode assumir" é chauvinismo de substrato.**
+> **Confundir "a única forma de vida conhecida" com "a única forma que vida pode assumir" é chauvinismo de substrato.**
 
 ---
 
