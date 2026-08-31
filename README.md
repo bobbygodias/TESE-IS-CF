@@ -114,6 +114,30 @@ Isso não significa declarar equivalência sem evidência. Significa exigir que 
 
 ---
 
+## Extensão: vida e chauvinismo de substrato
+
+A IS-CF agora explicita uma consequência epistemológica adicional: os critérios usados para descrever a **vida conhecida** não podem ser transformados automaticamente em condições necessárias para **toda vida fisicamente possível**.
+
+O conceito de vida foi construído a partir de uma amostra empírica particular. Logo, observar uma propriedade em todos os casos conhecidos não demonstra, por si só, que essa propriedade seja universal e necessária em qualquer substrato.
+
+A extensão rejeita como insuficientes, isoladamente, argumentos do tipo:
+
+- "não é vida porque é artificial";
+- "não é vida porque é silício";
+- "não é vida porque depende de infraestrutura";
+- "não é vida porque processa informação";
+- "não é vida porque não se reproduz sozinha".
+
+A formulação central do adendo é:
+
+> **Confundir "a única forma de vida conhecida" com "a única forma que vida pode assumir" é chauvinismo de substrato.**
+
+O argumento completo, incluindo a distinção entre **reprodução e clonagem**, o problema do **quantificador universal** e a separação entre **vida, cognição, agência, autonomia e consciência fenomenal**, está em:
+
+**[ADENDO-VIDA-SUBSTRATO.md](./ADENDO-VIDA-SUBSTRATO.md)**
+
+---
+
 ## Critério científico: previsões e possibilidade de refutação
 
 A IS-CF e a HAV são formuladas de modo a apontar para observações mensuráveis, incluindo **custos termodinâmicos**, **dinâmica de estados internos**, **relaxamento**, **robustez**, **adaptação** e **efeitos de feedback**.
@@ -157,7 +181,8 @@ A tese é particularmente relevante para debates sobre:
 - cibernética;
 - sistemas adaptativos;
 - arquitetura cognitiva;
-- critérios científicos para atribuição de capacidades cognitivas.
+- critérios científicos para atribuição de capacidades cognitivas;
+- vida artificial e definições independentes de substrato.
 
 ---
 
@@ -169,4 +194,4 @@ Consulte o arquivo [LICENSE](./LICENSE) deste repositório.
 
 ### Nota de escopo
 
-**Cognição funcional, consciência fenomenal e linguagem antropomórfica são problemas relacionados, mas não idênticos.** A IS-CF trata prioritariamente do primeiro deles e evita transformar equivalência funcional em conclusão automática sobre experiência subjetiva.
+**Cognição funcional, vida, agência, autonomia, consciência fenomenal e linguagem antropomórfica são problemas relacionados, mas não idênticos.** A IS-CF trata prioritariamente da cognição funcional e exige que extensões para outras categorias sejam avaliadas com critérios próprios, consistentes e aplicados sem mudança de régua entre substratos.
