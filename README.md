@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" alt="Frota AI" src="https://github.com/user-attachments/assets/42ed0244-1a01-4f4b-8c51-4ce079d69652" />
+  <img width="230" alt="Frota AI" src="https://github.com/user-attachments/assets/42ed0244-1a01-4f4b-8c51-4ce079d69652" />
 </p>
 
 # Independência de Substrato para Cognição Funcional (IS-CF)
